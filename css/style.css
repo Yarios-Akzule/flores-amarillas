@@ -44,7 +44,7 @@ body{
     font-size: 7rem;
     font-weight: 900;
 }
-.greetings1 > span{
+.greetings > span{
     animation: glow 2.5s ease-in-out infinite;
 }
 .greetings2 > span{
