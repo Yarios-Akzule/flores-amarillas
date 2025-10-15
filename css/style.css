@@ -43,7 +43,7 @@ body{
 .greetings  > span{
     animation: glow 2.5s ease-in-out infinite;
 }
-.grupo{
+.grupo > span{
     color: #fff;
     text-shadow: 0 0 12px #39c6d6, 0 0 50px #39c6d6, 0 0 100px #39c6d6;
 }
