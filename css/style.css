@@ -40,14 +40,14 @@ body{
     font-size: 7rem;
     font-weight: 900;
 }
-.grupo2{
+.grupo{
     font-size: 7rem;
     font-weight: 900;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
 }
-.grupo2 > span{
+.grupo > span{
     animation: glow 2.5s ease-in-out infinite;
 }
 @keyframes glow{
@@ -75,19 +75,19 @@ body{
 .greetings > span:nth-child(6){
     animation-delay: 1s;
 }
-.grupo2 > span:nth-child(2){
+.grupo > span:nth-child(2){
     animation-delay: .2s ;
 }
-.grupo2 > span:nth-child(3){
+.grupo > span:nth-child(3){
     animation-delay: .4s ;
 }
-.grupo2 > span:nth-child(4){
+.grupo > span:nth-child(4){
     animation-delay: .6s;
 }
-.grupo2 > span:nth-child(5){
+.grupo > span:nth-child(5){
     animation-delay: .8s;
 }
-.grupo2 > span:nth-child(6){
+.grupo > span:nth-child(6){
     animation-delay: 1s;
 }
 
